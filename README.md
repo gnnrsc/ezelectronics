@@ -105,3 +105,8 @@ npm start
 **Access the application:**
 *   Client UI: `http://localhost:3000`
 *   API Server: `http://localhost:3001`
+
+## 🏛️ Academic Context
+
+This project was developed within the **Software Engineering** course at **Politecnico di Torino** <!--[cite: 9]-->. 
+The repository includes all the artifacts produced during the sprints, serving as a showcase of requirement engineering, architectural design, defect tracking, and team collaboration.
