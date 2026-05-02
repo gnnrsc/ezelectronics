@@ -22,6 +22,8 @@ The project was developed using an iterative approach, moving from an initial le
 *   **Defect Tracking & Refactoring:** We performed reverse engineering on a V1 legacy system, identifying critical security defects (e.g., APIs lacking authentication) <!--[cite: 6]-->. In the V2 iteration, these vulnerabilities were addressed by introducing Role-Based Access Control (RBAC) with a new **Admin** role <!--[cite: 6, 7]-->.
 *   **Time Management:** The development process was tracked using Gantt charts and detailed Time Estimation sheets.
 
+> 📁 **Further Documentation**
+> For a deep dive into our software engineering process, please explore the `docs/` directory. It contains all our project artifacts, including the **Test Report**, **Requirements Documents (V1 & V2)**, **API Specifications**, and **GUI Prototypes** <!--[cite: 2, 3, 4, 5, 6, 7]-->.
 ---
 
 ## 🧪 Quality Assurance & Testing Strategy
