@@ -1,6 +1,8 @@
 # EZelectronics - Software Engineering & Architecture Project ⚙️🛒
 
-**EZelectronics** is a full-stack e-commerce management system developed by **Team eng-34** <!--[cite: 4]-->. 
+**EZelectronics** is a full-stack e-commerce management system developed collaboratively by myself and three other international students <!--[cite: 10]-->. 
+
+It is a software application designed to help managers of electronics stores to manage their products and offer them to customers through a dedicated website <!--[cite: 10]-->. Managers can assess the available products, record new ones, and confirm purchases <!--[cite: 10]-->. Customers can see available products, add them to a cart and see the history of their past purchases <!--[cite: 10]-->.
 
 While this repository contains a fully functional application (React + Node.js), its primary purpose is to showcase the **rigorous Software Engineering methodologies, teamwork procedures, and Quality Assurance processes** applied throughout the software development lifecycle.
 
@@ -69,7 +71,7 @@ The project is configured for a quick and clean startup using Docker <!--[cite: 
 
 1.  **Clone the repository:**
     \`\`\`bash
-    git clone https://github.com/IL-TUO-USERNAME/ezelectronics-management-system.git
+    git clone https://github.com/gnnrsc/ezelectronics.git
     cd ezelectronics-management-system
     \`\`\`
 
